@@ -1,0 +1,38 @@
+---
+title: "Félix P. Leiva"
+image: "fpl.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/felixpleiva"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=Cgm7_bMAAAAJ&hl=en&oi=ao"
+  - label: Bluesky
+    url: "https://bsky.app/profile/felixpleiva.bsky.social"
+  - label: Email contact
+    url: "mailto:felixpleiva@gmail.com"
+output:
+  postcards::solana
+---
+
+# Hello, I’m Félix
+
+I am from Chile 🇨🇱, where I grew up as an artisanal fisherman, catching Southern hake and other delicious fish.\
+I started this trade at the tender age of 12, spending my summer and winter school holidays at sea.\
+Even now, those early days still bring a lump to my throat — a source of great pride and cherished memories.
+
+After more than a decade in fishing, I followed my passion into academia.\
+I spent four years as a research assistant before embarking on my PhD journey in 2017 at **Radboud University** in the Netherlands 🇳🇱.\
+Following that, I took a postdoctoral position at the **Alfred Wegener Institute** in Germany 🇩🇪.
+
+Today, I’m thrilled to be back at Radboud University, continuing my research as a postdoctoral fellow.
+
+My research primarily focuses on *macrophysiology*, complemented by elements of experimental *ecophysiology*, though this plays a smaller role in my work nowadays. These approaches enable me to uncover how animals thrive and adapt to ever-changing environmental conditions, across space and time.
+
+## Education
+PhD in Science \| Radboud University, Netherlands 🇳🇱 \| March 2017 –December 2022\
+Aquaculture Engineer \| Universidad Austral de Chile, Chile 🇨🇱 \| March 2005 – February 2011
+
+## Experience
+Postdoctoral Researcher \| Radboud University, Netherlands 🇳🇱 \| January 2025 – Present\
+Postdoctoral Researcher \| Alfred Wegener Institute, Germany 🇩🇪 \| January 2022 – December 2024\
+Research Assistant \| Centro i-mar, Universidad de Los Lagos, Chile 🇨🇱 \| 2014 – 2017
