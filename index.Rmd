@@ -14,7 +14,7 @@ output:
   postcards::solana
 ---
 
-# Hello, I’m Félix
+# About me
 
 I am from Chile 🇨🇱, where I grew up as an artisanal fisherman, catching Southern hake and other delicious fish.\
 I started this trade at the tender age of 12, spending my summer and winter school holidays at sea.\
